@@ -1,0 +1,26 @@
+.menu {
+    background-color: #333;
+}
+
+.menu ul li {
+    display: inline-block;
+    
+    font-size: larger;
+    list-style-type: none;
+}
+.menu ul li a {
+    text-decoration: none;
+    display: block;
+    padding: 10px 15px;
+    color: whitesmoke;
+    text-transform: uppercase;
+}
+.menu ul li a:hover {
+    
+    background-color: brown;
+    transform: scale(1.05);
+    
+}
+.logo {
+    width: 200px;
+}
